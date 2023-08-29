@@ -1,0 +1,14 @@
+C:\Users\luis\Desktop\poo\treco\bin\Debug\net7.0\treco.exe
+C:\Users\luis\Desktop\poo\treco\bin\Debug\net7.0\treco.deps.json
+C:\Users\luis\Desktop\poo\treco\bin\Debug\net7.0\treco.runtimeconfig.json
+C:\Users\luis\Desktop\poo\treco\bin\Debug\net7.0\treco.dll
+C:\Users\luis\Desktop\poo\treco\bin\Debug\net7.0\treco.pdb
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\treco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\treco.AssemblyInfoInputs.cache
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\treco.AssemblyInfo.cs
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\treco.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\treco.dll
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\refint\treco.dll
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\treco.pdb
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\treco.genruntimeconfig.cache
+C:\Users\luis\Desktop\poo\treco\obj\Debug\net7.0\ref\treco.dll
