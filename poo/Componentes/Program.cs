@@ -1,14 +1,15 @@
 ﻿Text txtSalvar = new Text("salvar");
 
 Button btnSalvar = new Button();
+btnSalvar.Item = txtSalvar;
+Console.WriteLine(btnSalvar.Item.GetValeu());
 
-btnSalvar.Text = txtSalvar;
+Image imgDelete = new Image();
+imgDelete.Src = "http://www.png";
 
-
-
-
-
-
+Button btnPagar = new Button();
+btnPagar.Item = imgDelete;
+Console.WriteLine(btnPagar.Item.GetValeu());
 
 
 

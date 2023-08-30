@@ -1,7 +1,7 @@
 
 using System.Runtime.InteropServices;
 
-class Text {
+class Text : Componente {
     
     public string Texto { get; set; }
 
@@ -9,4 +9,7 @@ class Text {
         this.Texto = texto;
     }
 
+    public override string GetValeu() {
+        return Texto;
+    }
 }

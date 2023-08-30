@@ -1,0 +1,15 @@
+/home/cake/exercicio/bin/Debug/net7.0/exercicio
+/home/cake/exercicio/bin/Debug/net7.0/exercicio.deps.json
+/home/cake/exercicio/bin/Debug/net7.0/exercicio.runtimeconfig.json
+/home/cake/exercicio/bin/Debug/net7.0/exercicio.dll
+/home/cake/exercicio/bin/Debug/net7.0/exercicio.pdb
+/home/cake/exercicio/obj/Debug/net7.0/exercicio.csproj.AssemblyReference.cache
+/home/cake/exercicio/obj/Debug/net7.0/exercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/cake/exercicio/obj/Debug/net7.0/exercicio.AssemblyInfoInputs.cache
+/home/cake/exercicio/obj/Debug/net7.0/exercicio.AssemblyInfo.cs
+/home/cake/exercicio/obj/Debug/net7.0/exercicio.csproj.CoreCompileInputs.cache
+/home/cake/exercicio/obj/Debug/net7.0/exercicio.dll
+/home/cake/exercicio/obj/Debug/net7.0/refint/exercicio.dll
+/home/cake/exercicio/obj/Debug/net7.0/exercicio.pdb
+/home/cake/exercicio/obj/Debug/net7.0/exercicio.genruntimeconfig.cache
+/home/cake/exercicio/obj/Debug/net7.0/ref/exercicio.dll

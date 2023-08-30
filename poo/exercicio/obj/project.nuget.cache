@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/M6T8B3Cm7vFfN9KQVbtX15vY7PMA0jyYCQMbL2Os96sZ7zYKjK4DST3mCozzHlUwj5nvrKX4pFsuuNC7aqfg==",
+  "success": true,
+  "projectFilePath": "/home/cake/exercicio/exercicio.csproj",
+  "expectedPackageFiles": [
+    "/home/cake/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

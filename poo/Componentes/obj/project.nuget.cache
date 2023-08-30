@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xbsiAO1xRJqP+X1zFdMYywjWEZyeuuSHHkboB0odJUq1t3fH4AEczZGjnmxW2UjaeaTA4MM+ljXNb6Dl1Ce2dQ==",
+  "dgSpecHash": "U6WbAg7dWw4l/sc998Bzaa43vnwT/SE4pGP1L8G80n+IKNuTS3U8aDI8enhrYlZWKWYRMgd2xD30fqoLkGlhWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luis\\Desktop\\poo\\Componentes\\Componentes.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/cake/Desktop/faculdade/poo/Componentes/Componentes.csproj",
+  "expectedPackageFiles": [
+    "/home/cake/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
   "logs": []
 }
